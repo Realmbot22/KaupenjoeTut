@@ -20,6 +20,10 @@ public static final ItemGroup DOMS_MOD_GROUP = Registry.register(Registries.ITEM
                     entries.add(ModItems.RAW_PINK_GARNET);
 
                     entries.add(ModItems.CHISEL);
+                    entries.add(ModItems.CAULIFLOWER);
+                    entries.add(ModItems.COOKED_DRUMSTICK);
+                    entries.add(ModItems.RAW_DRUMSTICK);
+                    entries.add(ModItems.STARLIGHT_ASHES);
 
                 }).build());
 
@@ -32,6 +36,7 @@ public static final ItemGroup DOMS_MOD_BLOCKS_GROUP = Registry.register(Registri
                     entries.add(ModBlocks.RAW_PINK_GARNET_BLOCK);
                     entries.add(ModBlocks.PINK_GARNET_ORE);
                     entries.add(ModBlocks.PINK_GARNET_DEEPSLATE_ORE);
+                    entries.add(ModBlocks.MAGIC_BLOCK);
 
                 }).build());
 

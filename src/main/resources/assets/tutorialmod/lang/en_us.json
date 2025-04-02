@@ -2,12 +2,24 @@
   "item.tutorialmod.pink_garnet": "Pink Garnet",
   "item.tutorialmod.raw_pink_garnet": "Raw Pink Garnet",
   "item.tutorialmod.chisel": "Chisel",
+  "item.tutorialmod.cauliflower": "Cauliflower",
+  "item.tutorialmod.cooked_drumstick": "Cooked Drumstick",
+  "item.tutorialmod.raw_drumstick": "Raw Drumstick",
+  "item.tutorialmod.starlight_ashes": "Starlight Ashes",
 
   "block.tutorialmod.pink_garnet_block": "Block Of Pink Garnet",
   "block.tutorialmod.raw_pink_garnet_block": "Block Of Raw Pink Garnet",
   "block.tutorialmod.pink_garnet_ore": "Block Of Pink Garnet Ore",
   "block.tutorialmod.pink_garnet_deepslate_ore": "Block Of Deepslate Pink Garnet Ore",
+  "block.tutorialmod.magic_block": "Magic Block",
 
   "itemgroup.tutorialmod.doms_mod": "Doms Mod Items",
-  "itemgroup.tutorialmod.pink_garnet_blocks": "Doms Mod Blocks"
+  "itemgroup.tutorialmod.pink_garnet_blocks": "Doms Mod Blocks",
+
+  "tooltip.tutorialmod.cauliflower.tooltip": "A nutritional food that has a chance to give healing!",
+  "tooltip.tutorialmod.cooked_drumstick.tooltip": "A cooked chicken leg!",
+  "tooltip.tutorialmod.raw_drumstick.tooltip": "A raw chicken leg!",
+  "tooltip.tutorialmod.magic_block.tooltip": "This block is §9magic§r and can be used to transform Pink Garnet into something else..",
+  "tooltip.tutorialmod.chisel.shift_down": "The chisel can be used to turn logs into planks with a right click.",
+  "tooltip.tutorialmod.chisel": "Press §eShift§r for more information!"
 }
