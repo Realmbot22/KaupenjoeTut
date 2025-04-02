@@ -11,5 +11,5 @@ public class ModFoodComponents {
     public static final FoodComponent COOKED_DRUMSTICK = new FoodComponent.Builder().nutrition(4).saturationModifier(0.50f).build();
 
     public static final FoodComponent RAW_DRUMSTICK = new FoodComponent.Builder().nutrition(1).saturationModifier(0.15f)
-            .statusEffect(new StatusEffectInstance(StatusEffects.POISON, 150), 0.15f).build();
+            .statusEffect(new StatusEffectInstance(StatusEffects.HUNGER, 550), 0.15f).build();
 }
